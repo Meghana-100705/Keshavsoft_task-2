@@ -1,4 +1,4 @@
-=> Overall Summary
+About the completion of task
 
 This project, **FlavorForge – Internship Task 2**, demonstrates building a modern static website using **Nunjucks** as a templating engine and **Vite** as a bundler. The main objective was to recreate the previous Task 1 deliverables with a proper tech stack and workflow.
 
