@@ -24,6 +24,8 @@ All challenges were resolved by:
 * Ensuring anchor IDs matched navigation links
 * Always building before uploading to GitHub Pages
 
+Time Taken:10 hrs approx.
+
 **Outcome:** A fully functional static website that mirrors Task 1, is responsive, visually consistent, and correctly deployed on GitHub Pages.
 
 
